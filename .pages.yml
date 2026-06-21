@@ -7,6 +7,7 @@ content:
     label: Posts
     type: collection
     path: src/content/blog
+    previewPath: /preview-test
     view:
       fields: [ title, draft, date ]
     fields:
