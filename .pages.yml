@@ -1,6 +1,7 @@
 media:
   input: public
   output: /
+siteUrl: http://localhost:3000
 content:
   - name: posts
     label: Posts
